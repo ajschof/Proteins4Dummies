@@ -1,4 +1,7 @@
-![Proteins4Dummies](https://github.com/ajschof/Proteins4Dummies/blob/main/images/ai_logo.png?raw=true | width=50%)
+<p align="left">
+  <img src="https://github.com/ajschof/Proteins4Dummies/blob/main/images/ai_logo.png?raw=true" alt="AI logo" height="200" width="200">
+</p>
+
 # Proteins4Dummies (P4D)
 Exploring ML with protein structures.
 
