@@ -1,0 +1,9 @@
+[submodule "deeptsp"]
+	path = deeptsp
+	url = https://github.com/ajschof/deeptsp.git
+[submodule "dpg"]
+	path = dpg
+	url = https://github.com/ajschof/dpg.git
+[submodule "dumfass"]
+	path = dumfass
+	url = https://github.com/ajschof/dumfass.git
