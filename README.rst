@@ -1,3 +1,5 @@
+|Logo|
+
 |LastCommit| |PythonVer| |Fork|
 
 Proteins4Dummies (P4D)
@@ -58,6 +60,8 @@ Part of this project will be trying to utilise all this data to make a functiona
 Predicting Tertiary Structure (Future Project)
 ==============================================
 
+TBC
+
 .. |Fork| image:: https://img.shields.io/badge/Fork%20Me-yellow?style=flat-square&logo=GitHub
    :alt: ForkMe
 
@@ -66,3 +70,7 @@ Predicting Tertiary Structure (Future Project)
 
 .. |LastCommit| image:: https://img.shields.io/github/last-commit/ajschof/Proteins4Dummies?logo=GitHub&style=flat-square
    :alt: PythonVersion
+   
+.. |Logo| image:: https://i.imgur.com/mZxD0hu.png
+   :alt: logo
+   :width: 300
