@@ -2,6 +2,8 @@
   <img src="https://github.com/ajschof/Proteins4Dummies/blob/main/images/ai_logo.png?raw=true" alt="AI logo" height="200" width="200">
 </p>
 
+[![test](https://img.shields.io/badge/Python-3.10.10-blue?style=flat-square&logo=python)](https://www.python.org/downloads/release/python-31010/)
+
 # Proteins4Dummies (P4D)
 Exploring ML with protein structures.
 
