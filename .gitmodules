@@ -7,3 +7,6 @@
 [submodule "dumfass"]
 	path = dumfass
 	url = https://github.com/ajschof/dumfass.git
+[submodule "p4d_data"]
+	path = p4d_data
+	url = https://github.com/ajschof/p4d_data.git
