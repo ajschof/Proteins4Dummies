@@ -1,6 +1,6 @@
 |Logo|
 
-|LastCommit| |PythonVer| |Fork|
+|LastCommit| |PythonVer| |Fork| |Issues|
 
 Proteins4Dummies (P4D)
 ======================
@@ -74,3 +74,6 @@ TBC
 .. |Logo| image:: https://i.imgur.com/mZxD0hu.png
    :alt: logo
    :width: 300
+
+.. |Issues| image:: https://app.deepsource.com/gh/ajschof/Proteins4Dummies.svg/?label=active+issues&show_trend=true&token=qqtbVC15kPexwYfwULQFZ4Kt
+   :target: https://app.deepsource.com/gh/ajschof/Proteins4Dummies/?ref=repository-badge

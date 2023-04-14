@@ -134,3 +134,4 @@ dmypy.json
 
 npz_files/
 .vscode/launch.json
+.vscode/settings.json
